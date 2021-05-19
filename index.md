@@ -1,10 +1,16 @@
-## Welcome to GitHub Pages
 
 This is just a test
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```C
+#include <stdio.h>
+int main(void)
+{
+  printf("Test\n");
+}
+```
 
 ```markdown
 Syntax highlighted code block
