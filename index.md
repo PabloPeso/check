@@ -1,6 +1,7 @@
 
 This is just a test https://pablopeso.github.io/check/
 
+In order to include equations http://csega.github.io/mypost/2017/03/28/how-to-set-up-mathjax-on-jekyll-and-github-properly.html
 ### Markdown
 
 test/
