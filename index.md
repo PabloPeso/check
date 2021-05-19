@@ -11,8 +11,7 @@ int main(void)
   printf("Test\n");
 }
 ```
-
-\[ x=2 \]
+$$ x=2 $$
 ```markdown
 Syntax highlighted code block
 
