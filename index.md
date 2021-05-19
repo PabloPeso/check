@@ -12,6 +12,7 @@ int main(void)
 }
 ```
 $$ x=2 $$
+$$ x=3 $$
 ```markdown
 Syntax highlighted code block
 
