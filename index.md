@@ -3,7 +3,7 @@ This is just a test https://pablopeso.github.io/check/
 
 ### Markdown
 
-test
+test/
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 ```C
