@@ -13,6 +13,7 @@ int main(void)
 ```
 $$ x=2 $$
 $$ x=3 $$
+$$ \begin{aligned} \alpha_{i,j} &= \text{softmax}(f(\mathbf{x}_i)^\top g(\mathbf{x}_j)) \ \mathbf{o}j &= \mathbf{W}v \Big( \sum{i=1}^N \alpha{i,j} h(\mathbf{x}_i) \Big) \end{aligned} $$
 ```markdown
 Syntax highlighted code block
 
